@@ -23,5 +23,26 @@ On Earth, we experience water rain. On Venus, it rains sulfuric acid. But deep w
 Scientists have successfully replicated this process in a laboratory on Earth using powerful lasers to shock plastic (which contains carbon and hydrogen) and briefly create tiny, microscopic diamonds!
 
 ---
-*The adventure continues! Follow along every day as we unlock more mind-blowing wonders of the universe in Phase 2!* 🔬✨
+## 🌌 Science Facts Hub - Phase 2 (Day 12)
+
+"Somewhere, something incredible is waiting to be known." — Carl Sagan
+
+Welcome to Day 12! After our cosmic journey yesterday, we are returning to Earth to explore a mind-blowing creature that holds the title for the largest living thing on our planet.
+
+---
+
+### 🍄 The Largest Living Organism on Earth
+
+When we think of the Earth's largest creatures, the Blue Whale or giant Redwood trees usually come to mind. However, scientists have discovered that the largest single living organism on Earth is actually a fungus!
+
+- **Location:** Located in the Malheur National Forest in Oregon, USA.
+- **Name:** Popularly known as the **"Humongous Fungus"** (Scientifically named *Armillaria ostoyae* or the honey mushroom).
+- **Size and Scale:** This single organism covers an astronomical **2,384 acres** (nearly 10 square kilometers, or roughly 1,665 football fields) of underground area!
+- **Age:** Scientists estimate this massive living entity is anywhere between **2,400 to 8,600 years old**, making it one of the oldest living things as well.
+
+**How does it work?**
+The mushrooms that pop up on the surface are just the tiny "fruiting bodies" of a massive network. Underground, a vast web of root-like filaments called **mycelium** connects everything together, allowing it to function and grow as a single, continuous organism.
+
+---
+
 
