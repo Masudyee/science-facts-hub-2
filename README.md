@@ -44,5 +44,26 @@ When we think of the Earth's largest creatures, the Blue Whale or giant Redwood 
 The mushrooms that pop up on the surface are just the tiny "fruiting bodies" of a massive network. Underground, a vast web of root-like filaments called **mycelium** connects everything together, allowing it to function and grow as a single, continuous organism.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 12+1) / Day 13
+
+"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe." — Albert Einstein
+
+Welcome to Day 13! Today, we are blasting back into deep space to look at an invisible cosmic monster that is so massive, it challenges our understanding of the universe.
+
+---
+
+### 🕳️ The Largest Known Black Hole: Phoenix A
+
+We often think of black holes as large, but **Phoenix A** takes the concept of size to a whole new terrifying level. It is currently classified as a "stupendously large black hole" (SLAB).
+
+- **Location:** Situated at the heart of the Phoenix Cluster, about 8.5 billion light-years away from Earth.
+- **Mass:** It has a mind-boggling mass of **100 billion times** that of our Sun! To put that in perspective, it is roughly 24,000 times more massive than the black hole at the center of our own Milky Way galaxy.
+- **The Event Horizon:** The diameter of its event horizon (the point of no return) is estimated to be around **590 billion kilometers**. That is nearly 100 times the distance from the Sun to Pluto!
+
+**How big is that really?**
+If you placed Phoenix A at the center of our solar system, it would swallow all the planets, Pluto, and the entire Kuiper Belt instantly, with room to spare. It is so large that scientists believe it couldn't have formed from a single collapsing star; it must have been growing since the very beginning of the universe.
+
+---
+
 
 
