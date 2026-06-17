@@ -64,6 +64,26 @@ We often think of black holes as large, but **Phoenix A** takes the concept of s
 If you placed Phoenix A at the center of our solar system, it would swallow all the planets, Pluto, and the entire Kuiper Belt instantly, with room to spare. It is so large that scientists believe it couldn't have formed from a single collapsing star; it must have been growing since the very beginning of the universe.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 14)
+
+"Look deep into nature, and then you will understand everything better." — Albert Einstein
+
+Welcome to Day 14! Today, we are shifting our focus to a bizarre chemical reality on Earth: a hidden lake inside the ocean where anyone who enters never comes back alive.
+
+---
+
+### 🌊 The Underwater Lakes: "Pools of Death"
+
+It sounds like science fiction, but there are actual lakes with their own shorelines, waves, and surfaces located entirely *underwater* at the bottom of the ocean. However, these are known to scientists as "pools of death."
+
+- **Location:** Found mostly in the deep Gulf of Mexico and the Red Sea. 
+- **What are they?** These are called **brine pools**. They are areas of water that have a salt concentration (salinity) 3 to 5 times higher than the surrounding ocean.
+- **The Toxic Cocktail:** Because the water is so dense and salty, it doesn't mix with the rest of the ocean. It sits at the bottom, completely starved of oxygen and heavily toxic with chemicals like hydrogen sulfide and methane.
+
+**Why are they called deadly?**
+The boundary of these pools looks like a beautiful, calm underwater lake. But any fish, crab, or sea creature that accidentally swims or crawls into this heavy brine pool is instantly toxic-shocked, suffocated, and essentially "pickled" alive due to the extreme salt and lack of oxygen. 
+
+---
 
 
 
