@@ -84,6 +84,27 @@ It sounds like science fiction, but there are actual lakes with their own shorel
 The boundary of these pools looks like a beautiful, calm underwater lake. But any fish, crab, or sea creature that accidentally swims or crawls into this heavy brine pool is instantly toxic-shocked, suffocated, and essentially "pickled" alive due to the extreme salt and lack of oxygen. 
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 15)
+
+"Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less." — Marie Curie
+
+Welcome to Day 15! Today, we are exploring a fascinating biological anomaly inside our own bodies. Did you know that a part of you is actually older than the day you were born?
+
+---
+
+### 👁️ The Oldest Part of Your Body: The Eye Lens
+
+Most cells in the human body are constantly dividing, dying, and replacing themselves. For example, your skin replaces itself every few weeks. However, the cells in the very center of your eyes' lenses are a unique exception.
+
+- **Formed in the Womb:** The core proteins (called crystallins) that make up the center of your eye lens are formed while you are still a developing embryo in your mother's womb.
+- **Zero Turnover:** Once these cells and proteins are formed, they lose their metabolic activity. They never regenerate, change, or replace themselves for the rest of your life.
+- **As Old as You Are:** This means the lens core you are using to read this text right now is technically older than your official birth date!
+
+**The Carbon Dating Connection**
+Because these proteins never change after formation, scientists can actually use carbon-14 dating on the lenses of eyes to accurately determine a person's exact year of birth. It acts as a biological time capsule locked away inside your eyes.
+
+---
+
 
 
 
