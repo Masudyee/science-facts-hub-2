@@ -104,6 +104,26 @@ Most cells in the human body are constantly dividing, dying, and replacing thems
 Because these proteins never change after formation, scientists can actually use carbon-14 dating on the lenses of eyes to accurately determine a person's exact year of birth. It acts as a biological time capsule locked away inside your eyes.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 16)
+
+"Time is a storm in which we are all lost." — William Carlos Williams
+
+Welcome to Day 16! Today, we are diving into a mind-bending concept from Einstein's Theory of Relativity: Cosmic Time Dilation, or how time literally ticks slower depending on where you are in the universe.
+
+---
+
+### ⏳ Time Ticks Slower on Jupiter (and Near Black Holes)
+
+We tend to think of a second as the same everywhere, but gravity actually warps time. According to Einstein, the stronger the gravitational pull of an object, the slower time moves near it. This is known as **Gravitational Time Dilation**.
+
+- **The Jupiter Effect:** Because Jupiter is massively heavy and has a much stronger gravitational pull than Earth, time moves a tiny bit slower there. If you lived on Jupiter for a year, you would technically be a few milliseconds younger than your twin on Earth!
+- **Extreme Time Dilation:** This effect becomes extreme near black holes (like we discussed on Day 13). If you spent just **one hour** orbiting close to a supermassive black hole, **7 years** could pass back home on Earth.
+- **Real-World Impact:** We don't even have to leave Earth to see this. GPS satellites orbiting high above Earth experience less gravity, so their internal clocks tick *faster* than clocks on the ground. Engineers have to constantly adjust the satellite clocks by about 38 microseconds a day, or our maps would lose accuracy within hours!
+
+**In Short:**
+Time is not a constant countdown; it is flexible, stretching and squeezing depending on the cosmic heavyweights nearby.
+
+---
 
 
 
