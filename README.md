@@ -124,6 +124,27 @@ We tend to think of a second as the same everywhere, but gravity actually warps 
 Time is not a constant countdown; it is flexible, stretching and squeezing depending on the cosmic heavyweights nearby.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 17)
+
+"The question isn't who is going to let me; it's who is going to stop me." — Ayn Rand
+
+Welcome to Day 17! Today, we are looking at the terrifyingly impressive world of robotics. Did you know there is a robot that can outrun the fastest human in history?
+
+---
+
+### 🏃‍♂️ The Fastest Robot on Legs: Outrunning Usain Bolt
+
+When we think of robots, we often picture stiff, metallic structures that move slowly or awkwardly. However, modern biomimetic engineering (studying nature to build tech) has shattered that stereotype.
+
+- **The Creator:** Built by DARPA and Boston Dynamics, the robot is named **"Cheetah."**
+- **The Record:** On a laboratory treadmill, the Cheetah robot reached a top speed of **28.3 mph (45.5 km/h)**. 
+- **The Human Comparison:** To put this into perspective, the fastest human sprint ever recorded was by Usain Bolt, who clocked a peak speed of **27.78 mph (44.72 km/h)** during his legendary 100-meter world record run in 2009.
+- **How it Works:** The robot mimics the actual biomechanics of a real cheetah, flexing and unflexing its back on every stride to increase its stride length and power, powered by high-pressure hydraulic pumps.
+
+**The Next Generation:**
+While the original Cheetah required an off-board power supply, its successor, the *WildCat*, can run untethered outdoors at over 19 mph, proving that autonomous running robots are no longer confined to sci-fi movies.
+
+---
 
 
 
