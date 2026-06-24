@@ -186,6 +186,26 @@ While we experience water rain on Earth, deep inside the atmospheres of the gas 
 What is a rare, expensive gemstone on Earth is just a common weather event in the deep, violent skies of Jupiter and Saturn.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 20)
+
+"The Earth is what we all have in common." — Wendell Berry
+
+Welcome to Day 20! Today, we are exploring a hidden wonder right beneath our feet. Did you know that there is a massive ocean trapped deep inside the Earth's mantle that holds more water than all surface oceans combined?
+
+---
+
+### 🌊 Ringwoodite: The Hidden Ocean Deep Inside Earth
+
+For generations, we believed that Earth's water only existed on the surface and in the atmosphere. However, scientists have discovered a massive reservoir of water locked **400 miles (660 kilometers) underground** in the Earth's mantle.
+
+- **The Discovery:** Scientists found this hidden water by studying seismic waves from earthquakes and analyzing a rare, blue mineral called **Ringwoodite**.
+- **A Sponge-Like Mineral:** This water isn't in a liquid form like a regular ocean or lake. Instead, it is trapped inside the molecular structure of the Ringwoodite mineral, which acts like a giant sponge, soaking up hydrogen and oxygen.
+- **The Scale:** Geologists estimate that if this mineral layer contains just 1% water by weight, it would hold **three times more water** than all the oceans on Earth's surface combined!
+
+**Why does it matter?**
+This subterranean reservoir acts as a giant buffer. If this water weren't trapped deep underground, the surface of the Earth would likely be completely covered in water, and the only visible land would be the tops of the highest mountain ranges.
+
+---
 
 
 
