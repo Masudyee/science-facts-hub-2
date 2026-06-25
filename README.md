@@ -206,6 +206,27 @@ For generations, we believed that Earth's water only existed on the surface and 
 This subterranean reservoir acts as a giant buffer. If this water weren't trapped deep underground, the surface of the Earth would likely be completely covered in water, and the only visible land would be the tops of the highest mountain ranges.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 21)
+
+"The good thing about science is that it's true whether or not you believe in it." — Neil deGrasse Tyson
+
+Welcome to Day 21! Today, we are looking at an incredible superpower found in the plant kingdom. Did you know that some plants can actually send out an "S.O.S." signal to call for a rescue team when they are being attacked?
+
+---
+
+### 🌿 The Cry of a Plant: Calling for Predatory Backups
+
+Plants might seem silent and helpless, but they have a highly sophisticated chemical defense system. When a plant is being eaten by pests like caterpillars, it doesn't just sit there—it fights back by sending out a chemical distress signal.
+
+- **Volatile Organic Compounds (VOCs):** When under attack, plants release specific airborne chemicals into the air. 
+- **The Rescue Call:** These chemicals act as an airborne message designed to attract the exact natural enemies of the pests eating them. For example, if caterpillars are chewing on a plant, the plant releases a scent that attracts parasitic wasps.
+- **The Takedown:** The wasps track the scent, find the caterpillars, and lay their eggs inside them, effectively neutralizing the threat and saving the plant.
+- **Neighbor Warning:** Not only does this signal call for predators, but nearby plants also sniff these chemical warnings. Once they detect the "S.O.S." from their neighbor, they immediately start producing their own defensive toxins to prepare for the incoming pests.
+
+**In Short:**
+Plants can communicate, call for security guards, and warn their neighbors, creating a highly coordinated underground and airborne defense network.
+
+---
 
 
 
