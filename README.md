@@ -227,6 +227,28 @@ Plants might seem silent and helpless, but they have a highly sophisticated chem
 Plants can communicate, call for security guards, and warn their neighbors, creating a highly coordinated underground and airborne defense network.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 22)
+
+"Science is a beautiful gift to humanity; we should not distort it." — A. P. J. Abdul Kalam
+
+Welcome to Day 22! Today, we are exploring a strange physics phenomenon related to water. Did you know that under certain conditions, hot water can actually freeze faster than cold water?
+
+---
+
+### ❄️ The Mpemba Effect: When Hot Freezes Faster Than Cold
+
+It defies common intuition—you would think cold water already has a head start, so it should freeze first. However, this counterintuitive phenomenon is a proven scientific reality known as the **Mpemba Effect**.
+
+- **The Discovery:** While the effect was noticed by ancient philosophers like Aristotle, it was officially rediscovered in 1963 by a Tanzanian schoolboy named Erasto Mpemba, who noticed hot ice cream mix froze faster than cold mix in his school labs.
+- **How It Works:** Scientists still debate the exact primary cause, but several factors contribute to this phenomenon:
+  - **Evaporation:** Hot water evaporates faster, reducing the total volume of water that actually needs to be frozen.
+  - **Convection Currents:** Hot water creates stronger internal circulation (convection currents), which helps transfer heat out to the environment much quicker than stagnant cold water.
+  - **Dissolved Gases:** Boiling water drives out dissolved gases, which can alter how easily ice crystals begin to form.
+
+**In Short:**
+Nature doesn't always follow a simple linear path, and sometimes adding heat can paradoxically speed up the cooling process.
+
+---
 
 
 
