@@ -249,6 +249,26 @@ It defies common intuition—you would think cold water already has a head start
 Nature doesn't always follow a simple linear path, and sometimes adding heat can paradoxically speed up the cooling process.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 23)
+
+"Equipped with his five senses, man explores the universe around him and calls the adventure Science." — Edwin Hubble
+
+Welcome to Day 23! Today, we are exploring a strange architectural and physics anomaly in the animal kingdom. Did you know that termites build structures so advanced that human engineers copy them to create air-conditioned buildings?
+
+---
+
+### 🐜 The Natural Air Conditioners: Termite Mounds
+
+Termites are tiny, blind creatures, but they are master architects. In the scorching African savannah, where temperatures can swing from 104°F (40°C) during the day to freezing at night, termites manage to keep their homes at a perfectly stable 86°F (30°C).
+
+- **The Passive Cooling System:** Termite mounds are built with a complex network of internal chimneys, tunnels, and vents. 
+- **How It Works:** As the sun heats the mound, it drives an underground air current. Warm, stale air rises out of the top chimney, while cooler, fresh air is sucked in through the lowest vents at the base.
+- **Constant Regulation:** The termites constantly open and block specific vents throughout the day to fine-tune the airflow, maintaining exact temperature and humidity control so their delicate underground fungus farms can survive.
+
+**The Human Tech Connection:**
+Architect Mick Pearce used this exact biomimetic principle to design the **Eastgate Centre**, a massive shopping and office complex in Zimbabwe. Because it mimics termite mounds, the building uses 90% less energy for climate control than conventional buildings, saving millions of dollars in electricity without traditional air conditioning.
+
+---
 
 
 
