@@ -269,6 +269,27 @@ Termites are tiny, blind creatures, but they are master architects. In the scorc
 Architect Mick Pearce used this exact biomimetic principle to design the **Eastgate Centre**, a massive shopping and office complex in Zimbabwe. Because it mimics termite mounds, the building uses 90% less energy for climate control than conventional buildings, saving millions of dollars in electricity without traditional air conditioning.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 24)
+
+"Science knows no country, because knowledge belongs to humanity, and is the torch which illuminates the world." — Louis Pasteur
+
+Welcome to Day 24! Today, we are looking at a mind-boggling biological phenomenon involving a tiny creature that defies our understanding of aging and death.
+
+---
+
+### 🪼 The Immortal Jellyfish: *Turritopsis dohrnii*
+
+While most living things are bound to a linear lifecycle of birth, aging, and death, there is a tiny species of jellyfish capable of resetting its biological clock back to zero whenever it faces danger or old age.
+
+- **The Reverse Lifecycle:** When the immortal jellyfish is injured, starving, or faces extreme environmental stress, it doesn't die. Instead, it undergoes a process called **transdifferentiation**.
+- **Back to the Beginning:** It transforms its existing adult cells into younger states, shrinking its body and reverting back into a blob-like cyst. This cyst then develops into a polyp colony—essentially the infant stage of a jellyfish.
+- **Genetic Clones:** From this polyp colony, hundreds of genetically identical adult jellyfish emerge, starting their life cycle all over again.
+- **The Limit:** Theoretically, this process can go on indefinitely, making the jellyfish biologically immortal. However, they can still die in the wild from being eaten by predators or catching diseases.
+
+**In Short:**
+Instead of dying at the end of its life, this creature essentially hits a biological "ctrl+z" to turn itself back into a baby, escaping old age completely.
+
+---
 
 
 
