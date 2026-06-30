@@ -290,6 +290,26 @@ While most living things are bound to a linear lifecycle of birth, aging, and de
 Instead of dying at the end of its life, this creature essentially hits a biological "ctrl+z" to turn itself back into a baby, escaping old age completely.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 25)
+
+"An investment in knowledge pays the best interest." — Benjamin Franklin
+
+Welcome to Day 25! Today, we are exploring a strange quantum mechanics reality about light. Did you know that light can act as both a moving wave and a solid particle at the exact same time?
+
+---
+
+### 💡 Wave-Particle Duality: The Split Personality of Light
+
+For centuries, the world's greatest scientists argued over what light actually is. Isaac Newton claimed light was made of tiny particles, while Christiaan Huygens argued it was made of waves. Turns out, they were both completely right.
+
+- **The Double-Slit Experiment:** When scientists shine light through two tiny parallel slits onto a screen, it creates an interference pattern of stripes. This proves light behaves like a continuous **wave**, rippling and overlapping just like water.
+- **The Photoelectric Effect:** However, when light hits certain metals, it knocks electrons free like billiard balls hitting one another. This proves light also acts as localized packets of energy or individual **particles** called photons (a discovery that won Einstein his Nobel Prize).
+- **The Observer Effect:** The most mind-boggling part of quantum mechanics is that light behaves like a wave *until* we try to measure or observe it directly. The moment a conscious observer tries to track which slit an individual photon passes through, the wave collapses and it behaves strictly like a solid particle.
+
+**In Short:**
+Light does not have a single fixed identity. It dynamically shifts between being a smooth wave and a solid particle depending entirely on how we choose to look at it.
+
+---
 
 
 
