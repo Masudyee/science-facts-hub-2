@@ -310,6 +310,27 @@ For centuries, the world's greatest scientists argued over what light actually i
 Light does not have a single fixed identity. It dynamically shifts between being a smooth wave and a solid particle depending entirely on how we choose to look at it.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 26)
+
+"Somewhere, something incredible is waiting to be known." — Carl Sagan
+
+Welcome to Day 26! Today, we are blasting back out into space to talk about a wandering planetary nightmare: planets that have no home stars and drift completely alone through the dark freezing void of the universe.
+
+---
+
+### ☄️ Rogue Planets: The Homeless Wanderers of Space
+
+When we think of planets, we always picture them orbiting a star, just like Earth orbits the Sun. However, space is filled with billions of cosmic orphans known as **Rogue Planets** (or interstellar planets).
+
+- **How They Are Born:** These planets originally formed around stars just like ours. However, during the chaotic early days of their solar systems, they were gravitationally kicked out and flung into deep space by the chaotic movements of larger neighbor planets.
+- **Utter Darkness and Cold:** Because they have no sun to light or warm them, these planets are trapped in permanent darkness, with surface temperatures dropping close to absolute zero.
+- **Outnumbering the Stars:** Scientists using gravitational microlensing have discovered that these invisible drifters are incredibly common. In fact, there might be more rogue planets roaming the Milky Way galaxy than there are actual stars!
+- **Hidden Life?** While their surfaces are frozen solid, scientists believe that some large rogue planets could retain enough internal geothermal heat to keep underground or sub-glacial liquid oceans warm, potentially harboring alien microbial life in total darkness.
+
+**In Short:**
+The universe is full of lonely, invisible giant worlds traveling at incredible speeds through the dark, completely disconnected from any solar system.
+
+---
 
 
 
