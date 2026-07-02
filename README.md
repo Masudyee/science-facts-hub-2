@@ -331,6 +331,26 @@ When we think of planets, we always picture them orbiting a star, just like Eart
 The universe is full of lonely, invisible giant worlds traveling at incredible speeds through the dark, completely disconnected from any solar system.
 
 ---
+## 🌌 Science Facts Hub - Phase 2 (Day 27)
+
+"Nature always wears the colors of the spirit." — Ralph Waldo Emerson
+
+Welcome to Day 27! Today, we are returning to Earth to look at a breathtaking biological phenomenon: a glowing forest where the earth shines brighter than the stars above.
+
+---
+
+### 🍄 Bioluminescent Forests: Nature's Neon Lights
+
+While we are used to turning on electric lights when it gets dark, nature has its own built-in light bulbs. In various dense forests around the world—especially in places like Shikoku, Japan, and parts of Brazil—the forest floor glows with a surreal, neon-green light at night.
+
+- **The Living Glow:** This beautiful phenomenon is caused by **bioluminescent fungi** (specifically species like *Mycena chlorophos* or "foxfire"). 
+- **The Chemical Reaction:** The glow is created by a chemical reaction inside the mushroom. A substance called **luciferin** reacts with oxygen in the presence of an enzyme called **luciferase**, releasing energy entirely in the form of cold, green light.
+- **Why Do They Glow?** Unlike plants, mushrooms need to spread their spores to reproduce. Scientists believe these fungi glow in the dark to attract nocturnal insects. The bugs land on the glowing mushrooms, pick up the spores on their legs, and carry them across the forest floor, helping the fungi expand their territory.
+
+**The Human Tech Connection:**
+Geneticists are currently studying these glowing mushrooms to create engineered "bioluminescent plants." In the future, we might be able to line our city streets with glowing trees instead of electric streetlights, drastically reducing global electricity consumption.
+
+---
 
 
 
